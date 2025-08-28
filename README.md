@@ -9,7 +9,7 @@ This is a simple GTA V mod menu in the form of a DLL file. It must be injected i
 
 ## 📦 Installation
 
-1. Download the `.dll` file from the [mega link]([./releases](https://mega.nz/file/qYdFQRJD#BIjT7MYAgO1bQ46ciyVByBGvC-IgNj0E3O6RLW9Aeow)) 
+1. Download the `.dll` file from the [mega link](https://mega.nz/file/qYdFQRJD#BIjT7MYAgO1bQ46ciyVByBGvC-IgNj0E3O6RLW9Aeow) 
 2. Launch GTA V.
 3. Use any DLL injector (e.g., Extreme Injector or Xenos).
 4. Inject the DLL into the GTA V process (`GTA5.exe`).
